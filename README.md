@@ -1,2 +1,2 @@
-# Leetcode-Journey
-A personal log of solving Leetcode problems, focusing on data structures and algorithms.
+# Leetcode-Journey🚀
+Welcome to my LeetCode Journey! This repository is dedicated to documenting my progress in solving coding problems on LeetCode. 
